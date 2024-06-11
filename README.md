@@ -2,9 +2,10 @@
 
 ## 👀 Passionate About:
 - Drones and Unmanned Aerial Vehicles (UAVs)
+- - Space Exploration and Astronomy
 - Aviation and Aeronautics
 - Robotics and Automation
-- Space Exploration and Astronomy
+
 
 ## 🌱 Currently Diving Into:
 - Advanced Drone Programming 
