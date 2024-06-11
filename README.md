@@ -24,7 +24,7 @@
 ## 📫 Let's Connect:
 - [Email](mailto:meng.rashedk@gmail.com)
 - [LinkedIn](linkedin.com/in/rashedkhader) 
-- [Personal Website](https://rashedportifolio.netlify.app/)
+- [Portifolio](https://rashedportifolio.netlify.app/)
 - [YouTube](https://www.youtube.com/@RashedKhader) 
 
 
