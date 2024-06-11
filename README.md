@@ -22,10 +22,12 @@
 
 
 ## 📫 Let's Connect:
-- [Email](mailto:meng.rashedk@gmail.com)
-- [LinkedIn](linkedin.com/in/rashedkhader) 
 - [Portifolio](https://rashedportifolio.netlify.app/)
+- [Email](mailto:meng.rashedk@gmail.com)
 - [YouTube](https://www.youtube.com/@RashedKhader) 
+- [LinkedIn](linkedin.com/in/rashedkhader) 
+
+
 
 
 
